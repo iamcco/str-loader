@@ -1,5 +1,5 @@
 {
-  "name": "string-loader",
+  "name": "str-loader",
   "version": "1.0.0",
   "description": "string loader for webpack",
   "main": "index.js",

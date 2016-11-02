@@ -5,7 +5,7 @@ string template loader for webpack
 **install**
 
 ```
-npm install --save-dev string-loader
+npm install --save-dev str-loader
 ```
 
 **usage**
