@@ -14,7 +14,7 @@ npm install --save-dev str-loader
 ....
     loaders: [{
         test: /\.(S|s)tring$/,
-        loader: 'string'
+        loader: 'str-loader'
     }]
 ...
 
