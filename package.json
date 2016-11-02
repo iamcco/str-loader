@@ -1,0 +1,24 @@
+{
+  "name": "string-loader",
+  "version": "1.0.0",
+  "description": "string loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamcco/string-loader.git"
+  },
+  "keywords": [
+    "string",
+    "loader",
+    "webpack"
+  ],
+  "author": "年糕小豆汤 <ooiss@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamcco/string-loader/issues"
+  },
+  "homepage": "https://github.com/iamcco/string-loader#readme"
+}
