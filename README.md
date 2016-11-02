@@ -1,4 +1,4 @@
-# string-loader
+# str-loader
 
 string template loader for webpack
 
